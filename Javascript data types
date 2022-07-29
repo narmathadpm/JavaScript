@@ -1,0 +1,30 @@
+Data Types can be primitive or object
+
+There are 7 types of primitive data types
+
+
+1.Number -> Floating point numbers
+2.String -> Sequence of characters
+3.Boolean -> true or false
+4.Undefined -> the variable not yet defined
+5.Null -> also means empty value
+6.Symbol -> Value that is unique and cannot be changed
+7.BigInt -> Large Numbers
+
+Java Script Has dynamic typing - We dont need to mention variable data type.Data types determined automatically .
+
+typeof - used to find variable data type
+
+Declaring variables 
+
+var,let,const
+
+1.let - variable may change in future
+
+ex) let n=10;
+    n="eded"
+    
+2.const - variable should not be changed in future - immutable variable - we cant declar empty const variable
+
+3.var - old way of defining variable - same as let 
+
