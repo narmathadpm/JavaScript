@@ -28,3 +28,7 @@ ex) let n=10;
 
 3.var - old way of defining variable - same as let 
 
+
+Template literals 
+
+${}
