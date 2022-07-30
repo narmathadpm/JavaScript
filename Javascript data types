@@ -32,3 +32,10 @@ ex) let n=10;
 Template literals 
 
 ${}
+
+Type conversion :
+Manually convert one type to another type
+
+coercion:
+javascript automatically converts type in backend
+
